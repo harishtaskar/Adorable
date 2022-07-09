@@ -2,17 +2,12 @@ package com.redxsolution.Adorable;
 
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.constraintlayout.motion.widget.OnSwipe;
-import androidx.dynamicanimation.animation.FlingAnimation;
 
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.ArrayAdapter;
 import android.widget.Toast;
 import com.lorentzos.flingswipe.SwipeFlingAdapterView;
-
-import com.google.android.material.behavior.SwipeDismissBehavior;
-import com.redxsolution.sample.R;
 
 import java.util.ArrayList;
 

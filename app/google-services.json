@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1006326444977",
+    "project_id": "adorable-f851b",
+    "storage_bucket": "adorable-f851b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006326444977:android:37efef0c66f8e25c6f8390",
+        "android_client_info": {
+          "package_name": "com.redxsolution.Adorable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006326444977-qf76tnj6l6h0tl543onv0mkffkjihqh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.redxsolution.Adorable",
+            "certificate_hash": "028ea561a505b732c04a499753e63b67b3436b77"
+          }
+        },
+        {
+          "client_id": "1006326444977-4tjcrbm18qo5v39181fnp3vlndtekchm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAGstpIE4-3urPdXMx8SsYXbq6ArxpFWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006326444977-4tjcrbm18qo5v39181fnp3vlndtekchm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
