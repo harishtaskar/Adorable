@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     private ArrayList<String> al;
     private ArrayAdapter<String> arrayAdapter;
     private int i;
-    Button btnRegister;
+
 
 
 
@@ -31,14 +31,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        btnRegister = findViewById(R.id.login_btn);
-        btnRegister.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this,Login.class);
-                startActivity(intent);
-            }
-        });
+
 
         al = new ArrayList<>();
         al.add("php");
